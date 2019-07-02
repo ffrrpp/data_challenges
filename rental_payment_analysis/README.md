@@ -1,0 +1,1 @@
+A data set containing historic monthly rental payment data was provided. I did exploratory data analysis and looked into various payment behaviors including late payments, missing payments, etc. I also performed feature selection, estimated missing values and built several machine learning models (random forest and neural network) to predict late payment behavior.
