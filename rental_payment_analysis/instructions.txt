@@ -1,0 +1,30 @@
+Instructions
+
+The dataset contains sample monthly rental payment information for a set of renters. Imagine that you have just received this dataset from an outside client and want to evaluate its quality and usefulness to predict which consumers would be good renters.  Please analyze the dataset and prepare a report to describe your findings.  Your report shall address questions listed below. Besides that, feel free to report other interesting observations.
+
+1.      What¡¯s the relation between those fields?
+a.      Can one person live in more than one address? And vice versa?
+b.      Can one address have different amount of rent? Payment?
+
+2.      We have a hypothesis that tenant¡¯s age is related to the rent they pay.
+a.      Make a plot to check whether the hypothesis seems right?
+b.      Can you do a statistical hypothesis testing on this?
+
+3.      Is the payment amount always the same as the rent amount?
+a.      How many different situations are there if the payment is different? 
+b.      What do you think is the reason for those over payment? Can you try to verify your guess?
+c.      What do you think is the reason for the missing payment? Can you try to verify your guess?
+
+4.      What kinds of tenant behavior that the rental company will be interested in predicting? Can you build a machine learning model to predict that?
+a.      How to design train/test split?
+b.      How to deal with zipcode variable?
+c.       How to deal with missing values (birthday)?
+d.      How to evaluate your model performance?
+
+
+
+
+
+
+
+
