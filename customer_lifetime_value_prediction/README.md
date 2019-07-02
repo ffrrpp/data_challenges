@@ -1,0 +1,1 @@
+I built a statistical model based on the [beta-geometric model](https://github.com/ffrrpp/data_challenges/blob/master/customer_lifetime_value_prediction/Counting_Your_Customers.pdf) and the gamma-gamma model to predict the customer lifetime values using historic transaction records.
